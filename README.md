@@ -1,11 +1,18 @@
 ## Hi there 👋
 
-## My GitHub Stats
+## GitHub Stats
 
  <div style="display: flex; flex-direction: row; flex; justify-content: space-evenly;">
       <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&show_icons=github&hide_icon=true" />
       <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=6&card_width=300" />
   </div>
+
+## Weekly Development Activity
+
+[![Weekly Development Activity](https://github-readme-stats-amber-kappa-46.vercel.app/api/wakatime?username=pellia)](https://github.com/pellia/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **Pellia/pellia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
