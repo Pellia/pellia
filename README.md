@@ -2,10 +2,17 @@
 
 ## My GitHub Stats
 
-  <div>
+<a href="https://github.com/pellia/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&hide=stars&show_icons=true&rank_icon=github&card_width=300" />
+</a>
+<a href="https://github.com/pellia/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=6&card_width=250" />
+</a>
+
+ <!-- <div>
       <img height=200 align="center" src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&hide=stars&show_icons=true&rank_icon=github&card_width=300" />
-      <img height=200 align="center" src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=8&card_width=300" />
-  </div>
+      <img height=200 align="center" src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=6&card_width=280" />
+  </div> -->
 
 <!--
 **Pellia/pellia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
