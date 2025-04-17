@@ -3,8 +3,8 @@
 ## My GitHub Stats
 
   <div>
-      <img height=200 align="center" src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&hide=stars&show_icons=true&theme=transparent&rank_icon=github" />
-      <img height=200 align="center" src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=8&card_width=300&theme=transparent" />
+      <img height=200 align="center" src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&hide=stars&show_icons=true&rank_icon=github&card_width=300" />
+      <img height=200 align="center" src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=8&card_width=300" />
   </div>
 
 <!--
