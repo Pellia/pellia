@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I'm Rupi, a self-thaught Bioinformatician/Database Engineer from Hamburg, Germany. Right now I am diving into full-stack development as part of my future career change.
+I'm Rupi, a self-thaught bioinformatician specializing in application and database engineering within the field of cancer diagnostics. My work is driven by a strong focus on automation and the digitalization of laboratory processes, aiming to improve efficiency, accuracy, and scalability in clinical and research environments.
+
+With a hands-on approach and a deep curiosity for solving real-world problems, I strive to create smart, scalable solutions that make research and diagnostics faster, more accurate, and more accessible.
+
+I am currently pursuing self-directed learning in full-stack development as part of my ongoing professional growth and career transition. My goal is to become a full-stack developer, with a strong emphasis on backend development and security-focused architecture.
 
 ## GitHub Stats
 
