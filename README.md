@@ -3,9 +3,9 @@
 ## My GitHub Stats
 
 <a href="https://github.com/pellia/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&hide=stars&show_icons=true&rank_icon=github&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&hide=stars&show_icons=true&rank_icon=default&card_width=300" />
 </a>
-<a href="https://github.com/pellia/convoychat">
+<a href="https://github.com/pellia/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=6&card_width=250" />
 </a>
 
