@@ -11,7 +11,7 @@
 
  <div style="display: flex; flex-direction: row; gap: 5px;">
       <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&hide=stars&show_icons=true&card_width=300" />
-      <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=6&card_width=300" />
+      <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=6&card_width=200" />
   </div>
 
 <!--
