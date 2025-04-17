@@ -2,12 +2,12 @@
 
 ## GitHub Stats
 
- <div style="display: flex; flex-direction: column; flex; gap: 5rem;">
+ <div style="display: flex; flex-direction: column; flex;">
     <div style="display: flex; flex-direction: row; flex; justify-content: space-between;">
         <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&show_icons=github&hide_icon=true" />
         <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=6&card_width=300" />
     </div>
-    <img src="https://streak-stats.demolab.com?user=pellia&mode=daily&card_width=700&card_height=100)">
+    <img src="https://streak-stats.demolab.com?user=pellia&mode=daily&card_width=700&card_height=200)">
  </div>
 
 <!-- ## Weekly Development Activity
