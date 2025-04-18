@@ -1,10 +1,15 @@
 # Hi there, I'm Rupi 👋
 
+<br/>
+<img align="center" style="height: 300px; width: auto;" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE4anI1ZGVza2xmaWg3czMxa25rYmk1MjBncnNrNnAwYmc5dTFjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" />
+<br/>
+<br/>
+
 I'm a passionate and curious self-thaught full stack engineer from Hamburg, Germany :)
 
 ### Quick Facts
 
-<img align="right" style="height: 300px; width: auto;" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE4anI1ZGVza2xmaWg3czMxa25rYmk1MjBncnNrNnAwYmc5dTFjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" />
+<!-- <img align="right" style="height: 300px; width: auto;" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE4anI1ZGVza2xmaWg3czMxa25rYmk1MjBncnNrNnAwYmc5dTFjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" /> -->
 
 -   I worked as a bioinformatician for 5+ years within the field of cancer diagnostics
 -   Quit my job to pursue full-stack engineering on my own
