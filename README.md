@@ -49,7 +49,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 <table><tr><td valign="top" width="33%">
 
-<h2>Languages</h2>
+### Languages
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
