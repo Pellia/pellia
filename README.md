@@ -47,7 +47,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ### Currently Working With
 
-<table><tr><td width="33%">
+<table><tr><td valign="top" width="33%">
 
 ### Languages
 
@@ -59,7 +59,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
 </div>
 
-</td><td width="33%">
+</td><td valign="top" width="33%">
 
 ### Framework and Libraries
 
@@ -71,7 +71,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="35" height="35"/>
 </div>
 
-</td><td width="33%">
+</td><td valign="top" width="33%">
 
 ### Databases and Hosting
 
@@ -84,7 +84,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 </div>
 
 </td></tr>
-<tr><td width="33%">
+<tr><td valign="top" width="33%">
 
 ### Software and Tools
 
@@ -103,7 +103,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
 </div>
 
-</td><td width="33%">
+</td><td valign="top" width="33%">
 
 ### Operating Systems / Platforms
 
@@ -165,10 +165,10 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
  <div style="display: flex; flex-direction: column; flex; gap: 1rem;">
     <div style="display: flex; flex-direction: row; flex; gap: 1rem; justify-content: space-between;">
-        <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&show_icons=github&hide_icon=true" />
-        <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=6&card_width=300" />
+        <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&show_icons=github&hide_icon=true&theme=transparent" />
+        <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=6&card_width=300&theme=transparent" />
     </div>
-    <img style="width: 100%" src="https://streak-stats.demolab.com?user=pellia&mode=daily&card_width=700&card_height=200)">
+    <img style="width: 100%" src="https://streak-stats.demolab.com?user=pellia&mode=daily&card_width=700&card_height=200&hide_border=true&background=FFFFFF00)">
  </div>
 
 ## Weekly Development Activity
