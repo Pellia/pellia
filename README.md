@@ -1,10 +1,13 @@
 # Hi there, I'm Rupi 👋
 
+<br/>
+<div style="height: 400px; width: auto;display: flex; flex-direction: row; flex; justify-content: center">
+<img align="center" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE4anI1ZGVza2xmaWg3czMxa25rYmk1MjBncnNrNnAwYmc5dTFjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" /></div>
+<br/>
+
 I'm a passionate and curious self-thaught full stack engineer from Hamburg, Germany :)
 
 ### Quick Facts
-
-<img align="right" height="300" width="250" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE4anI1ZGVza2xmaWg3czMxa25rYmk1MjBncnNrNnAwYmc5dTFjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" />
 
 -   I worked as a bioinformatician for 5+ years within the field of cancer diagnostics
 -   Quit my job to pursue full-stack engineering on my own
