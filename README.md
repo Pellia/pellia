@@ -1,18 +1,23 @@
 # Hi there, I'm Rupi 👋
 
-I'm passionate and curious self-thaught fullstack developer from Hamburg, Germany :)
+I'm a passionate and curious self-thaught full stack engineer from Hamburg, Germany :)
 
 ### Quick Facts
 
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE4anI1ZGVza2xmaWg3czMxa25rYmk1MjBncnNrNnAwYmc5dTFjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" />
+
 -   I worked as a bioinformatician for 5+ years within the field of cancer diagnostics
--   Quit my job to pursue full-stack develepment on my own
+-   Quit my job to pursue full-stack engineering on my own
+-   Running workshops and speaking at tech related events
 
 ### My Passions&nbsp;🧡
 
--   Technology and Software
--   Science
--   Books
--   Gaming (I love Dota 2&nbsp;🎮)
+-   💻 &nbsp; Exploring new technologies and software
+-   🤓 &nbsp; Learning and Solving problems
+-   🧪 &nbsp; Everything science related
+-   📰 &nbsp; Reading tech and science books
+-   🍕 &nbsp; Meetups & Tech Events & Hackathons
+-   🎮 &nbsp; Gaming (I love Dota 2)
 
 ### Connect With Me
 
@@ -26,7 +31,7 @@ Feel free to drop me a message if you want to chat tech or collaborate on someth
 
 ## More About Me
 
-I'm a self-thaught bioinformatician specializing in application and database engineering within the field of cancer diagnostics. I am currently pursuing self-directed learning in full-stack development as part of my ongoing professional growth and career transition. My goal is to become a full-stack developer, with a strong emphasis on backend development and security-focused architecture.
+I'm a self-thaught bioinformatician specializing in application and database engineering within the field of cancer diagnostics. I am currently pursuing self-directed learning in full stack engineering as part of my ongoing professional growth and career transition. My goal is to become a full stack engineer, with a strong emphasis on backend development and security-focused architecture.
 
 ### Experience as Bioinformatician
 
@@ -44,7 +49,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend
+### Programming and Markup Languages
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
@@ -69,9 +74,9 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 ### Databases
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
     <img src="./img/filemaker-icon.png" alt="filemaker" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
 </div>
 
 </td></tr>
@@ -97,14 +102,13 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 <!-- 
 - Affinity Designer
 - Affinity Photo
-- OBS
  -->
 
 ### Operating Systems / Platforms
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="35" height="35"/>
 </div>
@@ -115,6 +119,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="vitest" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
@@ -127,17 +132,11 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-plain.svg" alt="ansible" width="35" height="35"/>
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="35" height="35"/> -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="lua" width="35" height="35"/> -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godot" width="35" height="35"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" alt="tauri" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="35" height="35"/>
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="svelte" width="35" height="35"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" alt="d3js" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="35" height="35"/>
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" alt="hugo" width="35" height="35"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amazonwebservices" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="35" height="35"/>
@@ -146,7 +145,6 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="vitest" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="terraform" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="35" height="35"/>
 </div>
