@@ -16,11 +16,11 @@ A passionate and curious fullstack developer from Hamburg, Germany :)
 
 ### Connect With Me
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/bluesky-light.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-light-mode-only)
-[![website](./img/bluesky-dark.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-dark-mode-only)
+[![website](./img/bluesky-dark.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-light-mode-only)
+[![website](./img/bluesky-light.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-dark-mode-only)
 
 ## More About Me
 
