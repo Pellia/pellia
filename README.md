@@ -1,6 +1,6 @@
 # Hi there, I'm Rupi 👋
 
-A passionate and curious fullstack developer from Hamburg, Germany :)
+I'm passionate and curious self-thaught fullstack developer from Hamburg, Germany :)
 
 ### Quick Facts
 
@@ -16,11 +16,13 @@ A passionate and curious fullstack developer from Hamburg, Germany :)
 
 ### Connect With Me
 
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-light-mode-only)
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-dark-mode-only)
-&nbsp;&nbsp;
+Feel free to drop me a message if you want to chat tech or collaborate on something cool! 🤝
+
 [![website](./img/bluesky-dark.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-light-mode-only)
 [![website](./img/bluesky-light.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-dark-mode-only)
 
 ## More About Me
 
@@ -38,6 +40,8 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ## Languages and Tools
 
+### Currently Working With
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
@@ -46,10 +50,8 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="35" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="reactrouter" width="35" height="35"/>
 </div>
 
 </td><td valign="top" width="33%">
@@ -67,10 +69,9 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 ### Databases
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="sqldeveloper" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oracle" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
+    <img src="./img/filemaker-icon.png" alt="filemaker" width="35" height="35"/>
 </div>
 
 </td></tr>
@@ -79,8 +80,6 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 ### Tools
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="confluence" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="slack" width="35" height="35"/>
@@ -89,56 +88,40 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="unifiedmodelinglanguage" width="35" height="35"/>
+    <img src="./img/obsidian.svg" alt="obsidian" width="35" height="35"/>
+    <img src="./img/obsstudio.svg" alt="obsstudio" width="35" height="35"/>
 </div>
 </td><td valign="top" width="33%">
 <!-- 
 - Affinity Designer
 - Affinity Photo
 - OBS
-- render
- -->
-
-<!--
-- Pascal
-- Delphi
-- MySQL x
  -->
 
 ### Operating Systems / Platforms
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="35" height="35"/>
 </div>
 </td></tr></table>
-
-<!--
-- Raspberrypi x
-- Arduino
- -->
 
 ## Currently Learning / Improving
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
 </div>
 
-## Want To Learn/Use In The Future
+## Want To Learn / Use In The Future
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
@@ -173,16 +156,9 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="35" height="35"/>
+    <img src="./img/pascal-icon.svg" alt="pascal" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" alt="atom" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-original.svg" alt="dreamweaver" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" alt="gimp" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" alt="tortoisegit" width="35" height="35"/>
 </div>
 
 ## GitHub Stats
