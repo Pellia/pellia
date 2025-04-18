@@ -12,7 +12,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ### Frontend
 
-<div>
+<div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
@@ -24,7 +24,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ### Backend
 
-<div>
+<div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="40" height="40"/>
@@ -36,7 +36,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ### Databases
 
-<div>
+<div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="sqldeveloper" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
@@ -44,7 +44,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ### Tools
 
-<div>
+<div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
@@ -82,7 +82,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ### Operating Systems
 
-<div>
+<div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/>
@@ -96,7 +96,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ## Currently Learning / Improving
 
-<div>
+<div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
@@ -108,7 +108,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ## Want To Learn In The Future
 
-<div>
+<div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
@@ -139,7 +139,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ## GitHub Stats
 
- <div style="display: flex; flex-direction: column; flex; gap: 1rem;">
+ <div align="left" style="display: flex; flex-direction: column; flex; gap: 1rem;">
     <div style="display: flex; flex-direction: row; flex; gap: 1rem; justify-content: space-between;">
         <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&show_icons=github&hide_icon=true" />
         <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=6&card_width=300" />
