@@ -47,7 +47,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ### Currently Working With
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td width="33%">
 
 ### Languages
 
@@ -59,7 +59,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td width="33%">
 
 ### Framework and Libraries
 
@@ -71,7 +71,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="35" height="35"/>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td width="33%">
 
 ### Databases and Hosting
 
@@ -84,7 +84,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 </div>
 
 </td></tr>
-<tr><td valign="top" width="33%">
+<tr><td width="33%">
 
 ### Software and Tools
 
@@ -103,7 +103,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td width="33%">
 
 ### Operating Systems / Platforms
 
