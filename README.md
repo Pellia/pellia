@@ -49,7 +49,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 <table><tr><td valign="top" width="33%">
 
-### Languages
+<h2>Languages</h2>
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
@@ -165,8 +165,8 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
  <div style="display: flex; flex-direction: column; flex; gap: 1rem;">
     <div style="display: flex; flex-direction: row; flex; gap: 1rem; justify-content: space-between;">
-        <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&show_icons=github&hide_icon=true&theme=transparent&hide_border=true&hide=stars" />
-        <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=6&card_width=300&theme=transparent&hide_border=true" />
+        <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&show_icons=github&hide_icon=true&theme=transparent&hide_border=true&hide=stars&card_width=275" />
+        <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=6&card_width=275&theme=transparent&hide_border=true" />
     </div>
     <img style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=pellia&theme=transparent&hide_border=true&card_width=700&card_height=200">
  </div>
