@@ -6,8 +6,6 @@ I'm a passionate and curious self-thaught full stack engineer from Hamburg, Germ
 
 ### Quick Facts
 
-<!-- <img align="right" style="height: 300px; width: auto;" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE4anI1ZGVza2xmaWg3czMxa25rYmk1MjBncnNrNnAwYmc5dTFjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" /> -->
-
 -   I worked as a bioinformatician for 5+ years within the field of cancer diagnostics
 -   Quit my job to pursue full-stack engineering on my own
 -   Running/organising workshops and speaking at tech related events
@@ -23,7 +21,7 @@ I'm a passionate and curious self-thaught full stack engineer from Hamburg, Germ
 
 ### Connect With Me
 
-Feel free to drop me a message if you want to chat tech or collaborate on something cool! 🤝
+Feel free to drop me a message if you want to chat or collaborate on something cool! 🤝
 
 [![website](./img/bluesky-dark.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-light-mode-only)
 [![website](./img/bluesky-light.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-dark-mode-only)
@@ -33,9 +31,9 @@ Feel free to drop me a message if you want to chat tech or collaborate on someth
 
 ## More About Me
 
-I'm a self-thaught bioinformatician specializing in application and database engineering within the field of cancer diagnostics. I am currently pursuing self-directed learning in full stack engineering as part of my ongoing professional growth and career transition. My goal is to become a full stack engineer, with a strong emphasis on backend development and security-focused architecture.
+I'm a self-thaught bioinformatician specializing in application and database engineering within the field of cancer diagnostics. I am currently pursuing self-directed learning in full stack engineering as part of my ongoing professional growth and career transition. My goal is to become a full stack engineer, with a strong emphasis on backend development.
 
-### Experience as Bioinformatician
+### Experience as a Bioinformatician
 
 My work was driven by a strong focus on automation and the digitalization of laboratory processes, aiming to improve efficiency, accuracy, and scalability in clinical and research environments.
 
@@ -63,7 +61,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 </td><td valign="top" width="33%">
 
-### Framework and Libraries
+### Frameworks and Libraries
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="35" height="35"/>
@@ -75,20 +73,18 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 </td><td valign="top" width="33%">
 
-### Databases and Hosting
+### Databases
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
     <img src="./img/filemaker-icon.png" alt="filemaker" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
-    <img src="./img/render.svg" alt="render" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="35" height="35"/>
 </div>
 
 </td></tr>
 <tr><td valign="top" width="33%">
 
-### Software and Tools
+### Softwares and Tools
 
 <div align="center">
     <img src="./img/affinity-designer.svg" alt="affinitydesigner" width="35" height="35"/>
@@ -110,7 +106,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 ### Operating Systems / Platforms
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" width="35" height="35"/>
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" width="35" height="35"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="35" height="35"/>
@@ -137,8 +133,6 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" alt="d3js" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/>
