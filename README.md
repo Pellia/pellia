@@ -100,11 +100,10 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 </td><td valign="top" width="33%">
 
-### Operating Systems / Platforms
+### Operating Systems
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="35" height="35"/>
 </div>
 
