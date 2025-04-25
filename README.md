@@ -95,6 +95,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+        <img src="./img/regex-icon.svg" alt="regex" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
 </div>
 
