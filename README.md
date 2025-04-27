@@ -45,6 +45,8 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ## My Skills
 
+<div align="center">
+
 ### Currently Working With
 
 <table><tr><td valign="top" width="33%">
@@ -114,7 +116,10 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="35" height="35"/>
 </div>
+
 </td></tr></table>
+
+</div>
 
 ### Currently Learning / Improving
 
