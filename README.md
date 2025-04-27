@@ -85,17 +85,24 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 </td></tr>
 <tr><td valign="top" width="33%">
 
-### Softwares and Tools
+### Tools
 
 <div align="center">
-    <img src="./img/affinity-designer.svg" alt="affinitydesigner" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+    <img src="./img/regex-icon.svg" alt="regex" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="35" height="35"/>
+</div>
+
+</td><td valign="top" width="33%">
+
+### Software
+
+<div align="center">   
+     <img src="./img/affinity-designer.svg" alt="affinitydesigner" width="35" height="35"/>
     <img src="./img/affinity-photo.svg" alt="affinityphoto" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-        <img src="./img/regex-icon.svg" alt="regex" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
 </div>
 
@@ -107,7 +114,6 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="35" height="35"/>
 </div>
-
 </td></tr></table>
 
 ### Currently Learning / Improving
