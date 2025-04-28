@@ -39,7 +39,8 @@ My work was driven by a strong focus on automation and the digitalization of lab
 
 With a hands-on approach and a deep curiosity for solving real-world problems, I strived to create smart, scalable solutions that make research and diagnostics faster, more accurate, and more accessible.
 
-<hr>
+##
+
 <p align="center"><i>"Your goal isn't to understand everything, it is to develop the skills to be able to understand anything"</i></p>
 </br>
 
@@ -51,7 +52,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend
+#### Frontend
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
@@ -64,7 +65,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 </td><td valign="top" width="33%">
 
-### Backend
+#### Backend
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
@@ -75,7 +76,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 </td><td valign="top" width="33%">
 
-### Databases
+#### Databases
 
 <div align="center">
     <img src="./img/sql-icon.svg" alt="sql" width="35" height="35"/>
@@ -87,7 +88,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 </td></tr>
 <tr><td valign="top" width="33%">
 
-### Tools
+#### Tools
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
@@ -98,7 +99,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 </td><td valign="top" width="33%">
 
-### Software
+#### Software
 
 <div align="center">   
      <img src="./img/affinity-designer.svg" alt="affinitydesigner" width="35" height="35"/>
@@ -110,7 +111,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 </td><td valign="top" width="33%">
 
-### Operating Systems
+#### Operating Systems
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
@@ -121,7 +122,11 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 </div>
 
-### Currently Learning / Improving
+<table><tr><td>
+
+<!-- ### Currently Learning / Improving
+
+<table><tr><td valign="top" width="33%">
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
@@ -132,6 +137,10 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
 </div>
+
+</td></tr></table>
+
+<table><tr><td valign="top" width="33%">
 
 ### Want To Learn / Use In The Future
 
@@ -146,8 +155,49 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="35" height="35"/>
-    
 </div>
+
+</td></tr></table>
+
+</td></tr></table> -->
+
+<table>
+    <thead>
+        <tr>
+            <th>Currently Learning / Improving</th>
+            <th>Want To Learn / Use In The Future</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">
+                <div>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="vitest" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
+                </div>
+            </td>
+            <td align="center">
+                <div>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" alt="d3js" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="35" height="35"/>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### Used In The Past
 
@@ -158,6 +208,8 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="35" height="35"/>
 </div>
+
+</br>
 
 ## GitHub Stats
 
