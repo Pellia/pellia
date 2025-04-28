@@ -39,7 +39,7 @@ My work was driven by a strong focus on automation and the digitalization of lab
 
 With a hands-on approach and a deep curiosity for solving real-world problems, I strived to create smart, scalable solutions that make research and diagnostics faster, more accurate, and more accessible.
 
-##
+---
 
 <p align="center"><i>"Your goal isn't to understand everything, it is to develop the skills to be able to understand anything"</i></p>
 </br>
@@ -160,6 +160,8 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 </td></tr></table>
 
 </td></tr></table> -->
+
+---
 
 <table>
     <thead>
