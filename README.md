@@ -127,39 +127,39 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 #### Currently Learning / Improving
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="vitest" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="vitest" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
 </div>
 
 #### Want To Learn / Use In The Future
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" alt="d3js" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" alt="d3js" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="electron" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width=30" height="30"/>
 </div>
 
 #### Used In The Past
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/>
-    <img src="./img/pascal-icon.svg" alt="pascal" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
+    <img src="./img/pascal-icon.svg" alt="pascal" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="30" height="30"/>
 </div>
 
 </br>
@@ -169,7 +169,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
  <div style="display: flex; flex-direction: column; flex; gap: 1rem;">
     <div style="display: flex; flex-direction: row; flex; gap: 1rem; justify-content: space-between;">
         <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&show_icons=github&hide_icon=true&theme=transparent&hide_border=true&hide=stars&card_width=275" />
-        <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=8&card_width=275&theme=transparent&hide_border=true" />
+        <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=8&card_width=275&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </div>
     <img style="width: 100%" src="https://github-readme-streak-stats-xi-smoky.vercel.app?user=pellia&theme=transparent&hide_border=true&card_width=700&card_height=200">
  </div>
