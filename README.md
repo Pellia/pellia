@@ -122,7 +122,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 </div>
 
-<table><tr><td>
+<!-- <table><tr><td> -->
 
 <!-- ### Currently Learning / Improving
 
