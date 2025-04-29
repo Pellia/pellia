@@ -2,7 +2,7 @@
 
 <img align="center" style="height: 300px; width: auto;" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE4anI1ZGVza2xmaWg3czMxa25rYmk1MjBncnNrNnAwYmc5dTFjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" />
 
-I'm a passionate and curious self-thaught full stack engineer from Hamburg, Germany :)
+I'm a passionate and curious self-taught full stack engineer from Hamburg, Germany :)
 
 ### Quick Facts
 
@@ -31,7 +31,7 @@ Feel free to drop me a message if you want to chat or collaborate on something c
 
 ## More About Me
 
-I'm a self-thaught bioinformatician specializing in application and database engineering within the field of cancer diagnostics. I am currently pursuing self-directed learning in full stack engineering as part of my ongoing professional growth and career transition. My goal is to become a full stack engineer, with a strong emphasis on backend development.
+I'm a self-taught bioinformatician specializing in application and database engineering within the field of cancer diagnostics. I am currently pursuing self-directed learning in full stack engineering as part of my ongoing professional growth and career transition. My goal is to become a full stack engineer, with a strong emphasis on backend development.
 
 ### Experience as a Bioinformatician
 
