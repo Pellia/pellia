@@ -47,34 +47,59 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ## My Skills
 
-### Programming Languages
+**Programming Languages**
 
-<center>
-    <figure style="display: inline-block">
+<figure style="display: inline-block">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
+    <figcaption>HTML</figcaption>
+</figure>
+<figure style="display: inline-block">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="35" height="35"/>
+    <figcaption>CSS</figcaption>
+</figure>
+<figure style="display: inline-block">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="35" height="35"/>
+    <figcaption>TailwindCSS</figcaption>
+</figure>
+<figure style="display: inline-block">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
+    <figcaption>JavaScript</figcaption>
+</figure>
+<figure style="display: inline-block">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+    <figcaption>Python</figcaption>
+</figure>
+<figure style="display: inline-block">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
+    <figcaption>Markdown</figcaption>
+</figure>
+
+<p float="left" align="center">
+    <figure style="display: inline-block" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
         <figcaption>HTML</figcaption>
     </figure>
-    <figure style="display: inline-block">
+    <figure style="display: inline-block" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="35" height="35"/>
         <figcaption>CSS</figcaption>
     </figure>
-    <figure style="display: inline-block">
+    <figure style="display: inline-block" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="35" height="35"/>
         <figcaption>TailwindCSS</figcaption>
     </figure>
-    <figure style="display: inline-block">
+    <figure style="display: inline-block" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
         <figcaption>JavaScript</figcaption>
     </figure>
-    <figure style="display: inline-block">
+    <figure style="display: inline-block" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
         <figcaption>Python</figcaption>
     </figure>
-    <figure style="display: inline-block">
+    <figure style="display: inline-block" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
         <figcaption>Markdown</figcaption>
     </figure>
-</center>
+</p>
 
 <!-- <div align="center">
 
