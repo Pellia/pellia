@@ -49,7 +49,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 **Programming Languages**
 
-<figure style="display: inline-block">
+<figure style="display: inline-block" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
     <figcaption>HTML</figcaption>
 </figure>
@@ -75,31 +75,75 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 </figure>
 
 <p float="left" align="center">
-    <figure style="display: inline-block" align="center">
+    <figure style="display: inline-block; float: left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
         <figcaption>HTML</figcaption>
     </figure>
-    <figure style="display: inline-block" align="center">
+    <figure style="display: inline-block; float: left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="35" height="35"/>
         <figcaption>CSS</figcaption>
     </figure>
-    <figure style="display: inline-block" align="center">
+    <figure style="display: inline-block; float: left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="35" height="35"/>
         <figcaption>TailwindCSS</figcaption>
     </figure>
-    <figure style="display: inline-block" align="center">
+    <figure style="display: inline-block; float: left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
         <figcaption>JavaScript</figcaption>
     </figure>
-    <figure style="display: inline-block" align="center">
+    <figure style="display: inline-block; float: left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
         <figcaption>Python</figcaption>
     </figure>
-    <figure style="display: inline-block" align="center">
+    <figure style="display: inline-block; float: left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
         <figcaption>Markdown</figcaption>
     </figure>
 </p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Programming Languages 👨‍💻
+
+- Languages: HTML, CSS, JavaScript, TypeScript, SQL, Bash, C, Python
+
+🖥️ Frameworks & Libraries 🎨
+
+- Frontend: React.js, Next.js, Vite.js, Redux, Context API
+- Backend: Express.js, Mongoose
+
+🎨 UI Libraries & Styling 🌈
+
+- UI Libraries: Material-UI, Tailwind CSS, Bootstrap, Shadcn‑UI, Styled Components
+
+📡 API & Authentication 🔐
+
+- APIs: REST, GraphQL, Webhooks, Axios, Fetch API
+- Authentication: JWT, Clerk, bcrypt, dotenv, cors
+
+🗃️ Databases 💾
+
+- Databases: MongoDB, PostgreSQL
+
+🧪 Testing ✅
+
+- Testing Frameworks: Jest, Jasmine, Cypress, Playwright
+
+🚀 CI/CD & DevOps 🌐
+
+- Version Control: Git, GitHub
+- CI/CD: GitHub Actions, CircleCI
+- Hosting: Netlify, Heroku, Vercel, AWS
 
 <!-- <div align="center">
 
