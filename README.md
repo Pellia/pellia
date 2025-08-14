@@ -17,15 +17,21 @@ I'm a passionate and curious self-taught full stack engineer from Hamburg, Germa
 - 🍕 &nbsp; Tech Events & Hackathons
 - 🎮 &nbsp; Gaming and Magic the Gathering
 
-### Connect With Me
+## My Tech Stack
 
-Feel free to drop me a message if you want to chat or collaborate on something cool! 🤝
+Programming Languages
 
-[![website](./img/bluesky-dark.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-light-mode-only)
-[![website](./img/bluesky-light.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-light-mode-only)
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-dark-mode-only)
+- Languages: HTML, CSS, JavaScript, TypeScript, SQL, Python, Markdown
+
+Frameworks & Libraries
+
+- Frontend: ReactJS, TailwindCSS, Vite
+- Backend: NodeJS, ExpressJS, FastAPI
+- Testing: Vitest
+
+Databases
+
+- Databases: PostgreSQL, FileMaker, MongoDB
 
 ## More About Me
 
@@ -45,173 +51,15 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 </br>
 
-## My Skills
+## Connect With Me
 
-**Programming Languages**
+Feel free to drop me a message if you want to chat or collaborate on something cool! 🤝
 
-<figure style="display: inline-block" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
-    <figcaption>HTML</figcaption>
-</figure>
-<figure style="display: inline-block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="35" height="35"/>
-    <figcaption>CSS</figcaption>
-</figure>
-<figure style="display: inline-block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="35" height="35"/>
-    <figcaption>TailwindCSS</figcaption>
-</figure>
-<figure style="display: inline-block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
-    <figcaption>JavaScript</figcaption>
-</figure>
-<figure style="display: inline-block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
-    <figcaption>Python</figcaption>
-</figure>
-<figure style="display: inline-block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
-    <figcaption>Markdown</figcaption>
-</figure>
-
-<p float="left">
-    <figure style="display: inline-block; float: left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
-        <figcaption>HTML</figcaption>
-    </figure>
-    <figure style="display: inline-block; float: left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="35" height="35"/>
-        <figcaption>CSS</figcaption>
-    </figure>
-    <figure style="display: inline-block; float: left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="35" height="35"/>
-        <figcaption>TailwindCSS</figcaption>
-    </figure>
-    <figure style="display: inline-block; float: left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
-        <figcaption>JavaScript</figcaption>
-    </figure>
-    <figure style="display: inline-block; float: left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
-        <figcaption>Python</figcaption>
-    </figure>
-    <figure style="display: inline-block; float: left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
-        <figcaption>Markdown</figcaption>
-    </figure>
-</p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<!-- Programming Languages 👨‍💻
-
-- Languages: HTML, CSS, JavaScript, TypeScript, SQL, Bash, C, Python
-
-🖥️ Frameworks & Libraries 🎨
-
-- Frontend: React.js, Next.js, Vite.js, Redux, Context API
-- Backend: Express.js, Mongoose
-
-🎨 UI Libraries & Styling 🌈
-
-- UI Libraries: Material-UI, Tailwind CSS, Bootstrap, Shadcn‑UI, Styled Components
-
-📡 API & Authentication 🔐
-
-- APIs: REST, GraphQL, Webhooks, Axios, Fetch API
-- Authentication: JWT, Clerk, bcrypt, dotenv, cors
-
-🗃️ Databases 💾
-
-- Databases: MongoDB, PostgreSQL
-
-🧪 Testing ✅
-
-- Testing Frameworks: Jest, Jasmine, Cypress, Playwright
-
-🚀 CI/CD & DevOps 🌐
-
-- Version Control: Git, GitHub
-- CI/CD: GitHub Actions, CircleCI
-- Hosting: Netlify, Heroku, Vercel, AWS -->
-
-<!-- <div align="center">
-
-<table><tr><td valign="top" width="33%">
-
-#### Frontend
-
-<div align="center">
-    <figure style="display: inline-block">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
-        <figcaption>HTML</figcaption>
-    </figure>
-    <figure style="display: inline-block">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="35" height="35"/>
-        <figcaption>CSS</figcaption>
-    </figure>
-        <figure style="display: inline-block">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
-        <figcaption>CSS</figcaption>
-    </figure>
-        <figure style="display: inline-block">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
-        <figcaption>CSS</figcaption>
-    </figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-</div>
-
-</td><td valign="top" width="33%">
-
-#### Backend
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="35" height="35"/>
-</div>
-
-</td><td valign="top" width="33%">
-
-#### Databases
-
-<div align="center">
-    <img src="./img/sql-icon.svg" alt="sql" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
-    <img src="./img/filemaker-icon.png" alt="filemaker" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
-</div>
-
-</td></tr>
-<tr><td valign="top" width="33%">
-
-#### Tools
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="35" height="35"/>
-</div>
-
-</td></tr></table>
-
-</div>
-
-</br> -->
+[![website](./img/bluesky-dark.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-light-mode-only)
+[![website](./img/bluesky-light.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-dark-mode-only)
 
 ## GitHub Stats
 
@@ -220,5 +68,5 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
         <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&show_icons=github&hide_icon=true&theme=transparent&hide_border=true&hide=stars&card_width=275" />
         <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=8&card_width=275&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </div>
-    <img style="width: 100%" src="https://github-readme-streak-stats-xi-smoky.vercel.app?user=pellia&theme=transparent&hide_border=true&card_width=700&card_height=200">
+    <!-- <img style="width: 100%" src="https://github-readme-streak-stats-xi-smoky.vercel.app?user=pellia&theme=transparent&hide_border=true&card_width=700&card_height=200"> -->
  </div>
