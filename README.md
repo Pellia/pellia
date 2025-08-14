@@ -74,7 +74,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
     <figcaption>Markdown</figcaption>
 </figure>
 
-<p float="left" align="center">
+<p float="left">
     <figure style="display: inline-block; float: left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
         <figcaption>HTML</figcaption>
@@ -113,7 +113,7 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 <br>
 <br>
 
-Programming Languages 👨‍💻
+<!-- Programming Languages 👨‍💻
 
 - Languages: HTML, CSS, JavaScript, TypeScript, SQL, Bash, C, Python
 
@@ -143,7 +143,7 @@ Programming Languages 👨‍💻
 
 - Version Control: Git, GitHub
 - CI/CD: GitHub Actions, CircleCI
-- Hosting: Netlify, Heroku, Vercel, AWS
+- Hosting: Netlify, Heroku, Vercel, AWS -->
 
 <!-- <div align="center">
 
