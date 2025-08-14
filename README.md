@@ -6,32 +6,36 @@ I'm a passionate and curious self-taught full stack engineer from Hamburg, Germa
 
 ### Quick Facts
 
--   I worked as a bioinformatician for 5+ years within the field of cancer diagnostics
--   Quit my job to pursue full-stack engineering on my own
--   Running/organising workshops and speaking at tech related events
+- I worked as a bioinformatician for 5+ years within the field of cancer diagnostics
+- Running/organising workshops and speaking at tech related events
 
 ### My Passions&nbsp;🧡
 
--   💻 &nbsp; Exploring new technologies and software
--   🤓 &nbsp; Learning and Solving problems
--   🧪 &nbsp; Everything science related
--   📰 &nbsp; Reading tech and science books
--   🍕 &nbsp; Tech Events & Hackathons
--   🎮 &nbsp; Gaming (I love Dota 2) and Magic the Gathering
+- 💻 &nbsp; Exploring new technologies and software
+- 🤓 &nbsp; Learning and Solving problems
+- 🧪 &nbsp; Everything science related
+- 🍕 &nbsp; Tech Events & Hackathons
+- 🎮 &nbsp; Gaming and Magic the Gathering
 
-### Connect With Me
+## My Tech Stack
 
-Feel free to drop me a message if you want to chat or collaborate on something cool! 🤝
+Programming Languages
 
-[![website](./img/bluesky-dark.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-light-mode-only)
-[![website](./img/bluesky-light.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-light-mode-only)
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-dark-mode-only)
+- Languages: HTML, CSS, JavaScript, TypeScript, SQL, Python, Markdown
+
+Frameworks & Libraries
+
+- Frontend: ReactJS, TailwindCSS, Vite
+- Backend: NodeJS, ExpressJS, FastAPI
+- Testing: Vitest
+
+Databases
+
+- Databases: PostgreSQL, FileMaker, MongoDB
 
 ## More About Me
 
-I'm a self-taught bioinformatician specializing in application and database engineering within the field of cancer diagnostics. I am currently pursuing self-directed learning in full stack engineering as part of my ongoing professional growth and career transition. My goal is to become a full stack engineer, with a strong emphasis on backend development.
+I'm a self-taught developer specializing in application and database engineering in the health and scientific field. I am currently pursuing self-directed learning in full stack engineering as part of my ongoing professional growth and career transition.
 
 ### Experience as a Bioinformatician
 
@@ -41,128 +45,21 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ##
 
-<p align="center"><i>"Your goal isn't to understand everything, it is to develop the skills to be able to understand anything"</i></p>
-</br>
-
-## My Skills
-
-<div align="center">
-
-### Currently Working With
-
-<table><tr><td valign="top" width="33%">
-
-#### Frontend
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-</div>
-
-</td><td valign="top" width="33%">
-
-#### Backend
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="35" height="35"/>
-</div>
-
-</td><td valign="top" width="33%">
-
-#### Databases
-
-<div align="center">
-    <img src="./img/sql-icon.svg" alt="sql" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
-    <img src="./img/filemaker-icon.png" alt="filemaker" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
-</div>
-
-</td></tr>
-<tr><td valign="top" width="33%">
-
-#### Tools
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-    <img src="./img/regex-icon.svg" alt="regex" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="35" height="35"/>
-</div>
-
-</td><td valign="top" width="33%">
-
-#### Software
-
-<div align="center">   
-     <img src="./img/affinity-designer.svg" alt="affinitydesigner" width="35" height="35"/>
-    <img src="./img/affinity-photo.svg" alt="affinityphoto" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
-</div>
-
-</td><td valign="top" width="33%">
-
-#### Operating Systems
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="35" height="35"/>
-</div>
-
-</td></tr></table>
-
-</div>
-
-##
-
-#### Currently Learning / Improving
-
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="vitest" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
-</div>
-
-#### Want To Learn / Use In The Future
-
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" alt="d3js" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="electron" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width=30" height="30"/>
-</div>
-
-#### Used In The Past
-
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
-    <img src="./img/pascal-icon.svg" alt="pascal" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="30" height="30"/>
-</div>
+<center>
+    <i>"Your goal isn't to understand everything, it is to develop the skills to be able to understand anything"</i>
+</center>
 
 </br>
+
+## Connect With Me
+
+Feel free to drop me a message if you want to chat or collaborate on something cool! 🤝
+
+[![website](./img/bluesky-dark.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-light-mode-only)
+[![website](./img/bluesky-light.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dev-rupinder-singh/#gh-dark-mode-only)
 
 ## GitHub Stats
 
@@ -171,9 +68,5 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
         <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&show_icons=github&hide_icon=true&theme=transparent&hide_border=true&hide=stars&card_width=275" />
         <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=8&card_width=275&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </div>
-    <img style="width: 100%" src="https://github-readme-streak-stats-xi-smoky.vercel.app?user=pellia&theme=transparent&hide_border=true&card_width=700&card_height=200">
+    <!-- <img style="width: 100%" src="https://github-readme-streak-stats-xi-smoky.vercel.app?user=pellia&theme=transparent&hide_border=true&card_width=700&card_height=200"> -->
  </div>
-
-## Weekly Development Activity
-
-[![Weekly Development Activity](https://github-readme-stats-amber-kappa-46.vercel.app/api/wakatime?username=pellia&theme=transparent&hide_border=true)](https://github.com/pellia/github-readme-stats)
