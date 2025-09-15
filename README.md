@@ -19,8 +19,16 @@ I'm a passionate and curious self-taught full stack engineer from Hamburg, Germa
 
 ## My Tech Stack
 
-![](./img/html5-dark.svg#gh-light-mode-only)
-![](./img/html5-light.svg#gh-dark-mode-only)
+<!-- ![](./img/html5-dark.svg#gh-dark-mode-only)
+![](./img/html5-light.svg#gh-light-mode-only) -->
+
+[![](./img/html5-dark.svg)](#gh-dark-mode-only)
+[![](./img/html5-light.svg)](#gh-light-mode-only)
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/html5-light.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./img/html5-dark.svg">
+</picture> -->
 
 Programming Languages
 
