@@ -19,6 +19,9 @@ I'm a passionate and curious self-taught full stack engineer from Hamburg, Germa
 
 ## My Tech Stack
 
+![](./img/html5-dark.svg#gh-light-mode-only)
+![](./img/html5-light.svg#gh-dark-mode-only)
+
 Programming Languages
 
 - Languages: HTML, CSS, JavaScript, TypeScript, SQL, Python, Markdown
