@@ -17,36 +17,34 @@ I'm a passionate and curious self-taught full stack engineer from Hamburg, Germa
 - 🍕 &nbsp; Tech Events & Hackathons
 - 🎮 &nbsp; Gaming and Magic the Gathering
 
-## Languagues and Tools
+## Languages and Tools
 
-[![](./img/html5-dark.svg)](#gh-dark-mode-only)
-[![](./img/html5-light.svg)](#gh-light-mode-only)
-[![](./img/css3-dark.svg)](#gh-dark-mode-only)
-[![](./img/css3-light.svg)](#gh-light-mode-only)
-[![](./img/javascript-dark.svg)](#gh-dark-mode-only)
-[![](./img/javascript-light.svg)](#gh-light-mode-only)
-[![](./img/typescript-dark.svg)](#gh-dark-mode-only)
-[![](./img/typescript-light.svg)](#gh-light-mode-only)
+![](./img/html5-plain.svg)
+![](./img/css3-plain.svg)
+![](./img/tailwindcss-original.svg)
+![](./img/javascript-plain.svg)
+![](./img/typescript-plain.svg)
+![](./img/react-original.svg)
+[![](./img/nextjs-dark.svg)](#gh-dark-mode-only)
+[![](./img/nextjs-light.svg)](#gh-light-mode-only)
+![](./img/vitejs-original.svg)
+![](./img/nodejs-original.svg)
 [![](./img/express-dark.svg)](#gh-dark-mode-only)
 [![](./img/express-light.svg)](#gh-light-mode-only)
-
-<!-- Programming Languages
-
-- Languages: HTML, CSS, JavaScript, TypeScript, SQL, Python, Markdown
-
-Frameworks & Libraries
-
-- Frontend: ReactJS, TailwindCSS, Vite
-- Backend: NodeJS, ExpressJS, FastAPI
-- Testing: Vitest
-
-Databases
-
-- Databases: PostgreSQL, FileMaker, MongoDB -->
+![](./img/python-original.svg)
+![](./img/fastapi-original.svg)
+![](./img/prisma-original.svg)
+![](./img/postgresql-original.svg)
+![](./img/sqlite-original.svg)
+![](./img/mysql-original.svg)
+![](./img/mongodb-original.svg)
+![](./img/vitest-original.svg)
+![](./img/git-original.svg)
+![](./img/docker-original.svg)
 
 ## More About Me
 
-I'm a self-taught developer specializing in application and database engineering in the health and scientific field. I am currently pursuing self-directed learning in full stack engineering as part of my ongoing professional growth and career transition.
+I'm a self-taught developer specialized in application and database engineering in the health and scientific field. I am currently pursuing self-directed learning in full stack engineering as part of my ongoing professional growth and career transition.
 
 ### Experience as a Bioinformatician
 
