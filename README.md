@@ -17,20 +17,20 @@ I'm a passionate and curious self-taught full stack engineer from Hamburg, Germa
 - 🍕 &nbsp; Tech Events & Hackathons
 - 🎮 &nbsp; Gaming and Magic the Gathering
 
-## My Tech Stack
-
-<!-- ![](./img/html5-dark.svg#gh-dark-mode-only)
-![](./img/html5-light.svg#gh-light-mode-only) -->
+## Languagues and Tools
 
 [![](./img/html5-dark.svg)](#gh-dark-mode-only)
 [![](./img/html5-light.svg)](#gh-light-mode-only)
+[![](./img/css3-dark.svg)](#gh-dark-mode-only)
+[![](./img/css3-light.svg)](#gh-light-mode-only)
+[![](./img/javascript-dark.svg)](#gh-dark-mode-only)
+[![](./img/javascript-light.svg)](#gh-light-mode-only)
+[![](./img/typescript-dark.svg)](#gh-dark-mode-only)
+[![](./img/typescript-light.svg)](#gh-light-mode-only)
+[![](./img/express-dark.svg)](#gh-dark-mode-only)
+[![](./img/express-light.svg)](#gh-light-mode-only)
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/html5-light.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./img/html5-dark.svg">
-</picture> -->
-
-Programming Languages
+<!-- Programming Languages
 
 - Languages: HTML, CSS, JavaScript, TypeScript, SQL, Python, Markdown
 
@@ -42,7 +42,7 @@ Frameworks & Libraries
 
 Databases
 
-- Databases: PostgreSQL, FileMaker, MongoDB
+- Databases: PostgreSQL, FileMaker, MongoDB -->
 
 ## More About Me
 
@@ -56,9 +56,9 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ##
 
-<center>
+<p align="center">
     <i>"Your goal isn't to understand everything, it is to develop the skills to be able to understand anything"</i>
-</center>
+</p>
 
 </br>
 
