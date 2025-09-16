@@ -17,25 +17,34 @@ I'm a passionate and curious self-taught full stack engineer from Hamburg, Germa
 - 🍕 &nbsp; Tech Events & Hackathons
 - 🎮 &nbsp; Gaming and Magic the Gathering
 
-## My Tech Stack
+## Languages and Tools
 
-Programming Languages
-
-- Languages: HTML, CSS, JavaScript, TypeScript, SQL, Python, Markdown
-
-Frameworks & Libraries
-
-- Frontend: ReactJS, TailwindCSS, Vite
-- Backend: NodeJS, ExpressJS, FastAPI
-- Testing: Vitest
-
-Databases
-
-- Databases: PostgreSQL, FileMaker, MongoDB
+![](./img/html5-plain.svg)
+![](./img/css3-plain.svg)
+![](./img/tailwindcss-original.svg)
+![](./img/javascript-plain.svg)
+![](./img/typescript-plain.svg)
+![](./img/react-original.svg)
+[![](./img/nextjs-dark.svg)](#gh-dark-mode-only)
+[![](./img/nextjs-light.svg)](#gh-light-mode-only)
+![](./img/vitejs-original.svg)
+![](./img/nodejs-original.svg)
+[![](./img/express-dark.svg)](#gh-dark-mode-only)
+[![](./img/express-light.svg)](#gh-light-mode-only)
+![](./img/python-original.svg)
+![](./img/fastapi-original.svg)
+![](./img/prisma-original.svg)
+![](./img/postgresql-original.svg)
+![](./img/sqlite-original.svg)
+![](./img/mysql-original.svg)
+![](./img/mongodb-original.svg)
+![](./img/vitest-original.svg)
+![](./img/git-original.svg)
+![](./img/docker-original.svg)
 
 ## More About Me
 
-I'm a self-taught developer specializing in application and database engineering in the health and scientific field. I am currently pursuing self-directed learning in full stack engineering as part of my ongoing professional growth and career transition.
+I'm a self-taught developer specialized in application and database engineering in the health and scientific field. I am currently pursuing self-directed learning in full stack engineering as part of my ongoing professional growth and career transition.
 
 ### Experience as a Bioinformatician
 
@@ -45,9 +54,9 @@ With a hands-on approach and a deep curiosity for solving real-world problems, I
 
 ##
 
-<center>
+<p align="center">
     <i>"Your goal isn't to understand everything, it is to develop the skills to be able to understand anything"</i>
-</center>
+</p>
 
 </br>
 
