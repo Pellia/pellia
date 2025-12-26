@@ -2,9 +2,9 @@
 
 <img align="center" style="height: 300px; width: auto;" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE4anI1ZGVza2xmaWg3czMxa25rYmk1MjBncnNrNnAwYmc5dTFjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" />
 
-I'm a passionate and curious self-taught full stack engineer from Hamburg, Germany :)
+I'm a passionate and curious self-taught bioinformatician and full stack developer from Hamburg, Germany :)
 
-### Quick Facts
+### Quick Facts&nbsp;⚡
 
 - I worked as a bioinformatician for 5+ years within the field of cancer diagnostics
 - Running/organising workshops and speaking at tech related events
@@ -36,7 +36,6 @@ I'm a passionate and curious self-taught full stack engineer from Hamburg, Germa
 ![](./img/prisma-original.svg)
 ![](./img/postgresql-original.svg)
 ![](./img/sqlite-original.svg)
-![](./img/mysql-original.svg)
 ![](./img/mongodb-original.svg)
 ![](./img/vitest-original.svg)
 ![](./img/git-original.svg)
@@ -44,21 +43,16 @@ I'm a passionate and curious self-taught full stack engineer from Hamburg, Germa
 
 ## More About Me
 
-I'm a self-taught developer specialized in application and database engineering in the health and scientific field. I am currently pursuing self-directed learning in full stack engineering as part of my ongoing professional growth and career transition.
+I'm a self-taught developer specialized in application and database engineering in the health and scientific field. I am currently pursuing self-directed learning in full stack development as part of my ongoing professional growth and career transition.
 
 ### Experience as a Bioinformatician
 
-My work was driven by a strong focus on automation and the digitalization of laboratory processes, aiming to improve efficiency, accuracy, and scalability in clinical and research environments.
+My work was driven by a strong focus on automation and the digitalization of laboratory processes, aiming to improve efficiency, accuracy, and scalability in clinical and research environments. 
 
-With a hands-on approach and a deep curiosity for solving real-world problems, I strived to create smart, scalable solutions that make research and diagnostics faster, more accurate, and more accessible.
+I strived to create smart, scalable solutions that make research and diagnostics faster, more accurate and more accessible.
 
-##
+<!-- With a hands-on approach and a deep curiosity for solving real-world problems, I strived to create smart, scalable solutions that make research and diagnostics faster, more accurate, and more accessible. -->
 
-<p align="center">
-    <i>"Your goal isn't to understand everything, it is to develop the skills to be able to understand anything"</i>
-</p>
-
-</br>
 
 ## Connect With Me
 
@@ -79,3 +73,11 @@ Feel free to drop me a message if you want to chat or collaborate on something c
     </div>
     <!-- <img style="width: 100%" src="https://github-readme-streak-stats-xi-smoky.vercel.app?user=pellia&theme=transparent&hide_border=true&card_width=700&card_height=200"> -->
  </div>
+
+##
+
+<p align="center">
+    <i>"Your goal isn't to understand everything, it is to develop the skills to be able to understand anything"</i>
+</p>
+
+</br>
