@@ -12,7 +12,7 @@ I'm a passionate and curious self-taught bioinformatician and full stack develop
 ### My Passions&nbsp;🧡
 
 - 💻 &nbsp; Exploring new technologies and software
-- 🤓 &nbsp; Learning and Solving problems
+- 🤓 &nbsp; Learning and solving problems
 - 🧪 &nbsp; Everything science related
 - 🍕 &nbsp; Tech Events & Hackathons
 - 🎮 &nbsp; Gaming and Magic the Gathering
@@ -49,7 +49,7 @@ I'm a self-taught developer specialized in application and database engineering 
 
 My work was driven by a strong focus on automation and the digitalization of laboratory processes, aiming to improve efficiency, accuracy, and scalability in clinical and research environments. 
 
-I strived to create smart, scalable solutions that make research and diagnostics faster, more accurate and more accessible.
+I strive to create smart, scalable solutions that make research and diagnostics faster, more accurate and accessible.
 
 <!-- With a hands-on approach and a deep curiosity for solving real-world problems, I strived to create smart, scalable solutions that make research and diagnostics faster, more accurate, and more accessible. -->
 
