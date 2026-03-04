@@ -11,11 +11,11 @@ I'm a passionate and curious self-taught bioinformatician and full stack develop
 
 ### My Passions&nbsp;🧡
 
-- 💻 &nbsp; Exploring new technologies and software
-- 🤓 &nbsp; Learning and solving problems
-- 🧪 &nbsp; Everything science related
-- 🍕 &nbsp; Tech Events & Hackathons
-- 🎮 &nbsp; Gaming and Magic the Gathering
+- Exploring new technologies and software
+- Learning and solving problems
+- Everything science related
+- Tech Events & Hackathons
+- Gaming and Magic the Gathering
 
 ## Languages and Tools
 
@@ -56,7 +56,7 @@ I strive to create smart, scalable solutions that make research and diagnostics 
 
 ## Connect With Me
 
-Feel free to drop me a message if you want to chat or collaborate on something cool! 🤝
+Feel free to drop me a message if you want to chat or collaborate on something cool!
 
 [![website](./img/bluesky-dark.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-light-mode-only)
 [![website](./img/bluesky-light.svg)](https://bsky.app/profile/devpellia.bsky.social#gh-dark-mode-only)
@@ -71,7 +71,6 @@ Feel free to drop me a message if you want to chat or collaborate on something c
         <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api?username=pellia&show_icons=github&hide_icon=true&theme=transparent&hide_border=true&hide=stars&card_width=275" />
         <img height=200 src="https://github-readme-stats-amber-kappa-46.vercel.app/api/top-langs?username=pellia&layout=compact&langs_count=8&card_width=275&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </div>
-    <!-- <img style="width: 100%" src="https://github-readme-streak-stats-xi-smoky.vercel.app?user=pellia&theme=transparent&hide_border=true&card_width=700&card_height=200"> -->
  </div>
 
 ##
