@@ -6,7 +6,7 @@ I'm a passionate and curious self-taught bioinformatician and full stack develop
 
 ### Quick Facts&nbsp;⚡
 
-- I worked as a bioinformatician for 5+ years within the field of cancer diagnostics
+- I worked as a Bioinformatician for 8+ years within the field of cancer diagnostics and research
 - Running/organising workshops and speaking at tech related events
 
 ### My Passions&nbsp;🧡
@@ -43,15 +43,11 @@ I'm a passionate and curious self-taught bioinformatician and full stack develop
 
 ## More About Me
 
-I'm a self-taught developer specialized in application and database engineering in the health and scientific field. I am currently pursuing self-directed learning in full stack development as part of my ongoing professional growth and career transition.
+I’m a Full Stack Developer and Bioinformatician with 8+ years of experience in the Bio- and HealthTech space, combining code and life sciences to build high-performance and data-driven applications.
 
-### Experience as a Bioinformatician
+Much of my work is centered on automating and digitalizing laboratory processes, driving efficiency, accuracy and scalability across clinical and research environments.
 
-My work was driven by a strong focus on automation and the digitalization of laboratory processes, aiming to improve efficiency, accuracy, and scalability in clinical and research environments. 
-
-I strive to create smart, scalable solutions that make research and diagnostics faster, more accurate and accessible.
-
-<!-- With a hands-on approach and a deep curiosity for solving real-world problems, I strived to create smart, scalable solutions that make research and diagnostics faster, more accurate, and more accessible. -->
+I strive to create smart, scalable solutions that make research and diagnostics faster, more accurate and accessible. I care deeply about clean functionality, intuitive interfaces and building software that genuinely serve its users.
 
 
 ## Connect With Me
