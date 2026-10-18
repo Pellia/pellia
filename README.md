@@ -1,15 +1,15 @@
-# Hi there, I'm Rupi 👋
+# Hi there, I'm Rupi
 
 <img align="center" style="height: 300px; width: auto;" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE4anI1ZGVza2xmaWg3czMxa25rYmk1MjBncnNrNnAwYmc5dTFjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jX1RFmcDNZp8UatWRF/giphy.gif" />
 
 I'm a passionate and curious self-taught bioinformatician and full stack developer from Hamburg, Germany :)
 
-### Quick Facts&nbsp;⚡
+### Quick Facts
 
 - I worked as a Bioinformatician for 8+ years within the field of cancer diagnostics and research
 - Running/organising workshops and speaking at tech related events
 
-### My Passions&nbsp;🧡
+### My Passions
 
 - Exploring new technologies and software
 - Learning and solving problems
